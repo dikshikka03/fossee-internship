@@ -23,5 +23,9 @@ This project is a responsive Workshop Booking UI built using React as part of th
 2. Run `npm install`
 3. Run `npm start`
 
+## 📸 Project Screenshot
+
+![UI Screenshot](screenshot.jpg)
+
 ## 👩‍💻 Author
 Dikshika
